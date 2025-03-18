@@ -1,0 +1,29 @@
+
+Assignment No 8
+
+1. Exception CASE-1: Problem without exception handling
+2. Exception CASE-2: Exception creates but properly handled
+3. Exception CASE-3: Exception creates but not handled
+4. Write a java program to implement Java Multi catch block
+5. Write a java program to implement Java Nested try statement
+6. Write a java program to implement the throw keyword.
+7. Write a java program to implement the throws keyword.
+
+8. Finally
+Case 1: finally example where exception doesn't occur.
+Case 2: finally example where exception occurs and not handled.
+Case 3: finally example where exception occurs and handled.
+
+9. Create a user-defined exception named CheckArgument to check 
+   the number of arguments passed through the command line. 
+   If the number of argument is less than 5, throw the 
+   CheckArgumentexception,else print the addition of all the five numbers.
+   
+10.Consider a Student examination database system that prints the 
+   mark sheet of students. Input the following from the command line.
+   (a) Student’s Name
+   (b) Marks in six subjects
+   These marks should be between 0 to 50. If the marks are not in 
+   the specified range, raise a RangeException, else find the total 
+   marks and prints the percentage of the students.
+
